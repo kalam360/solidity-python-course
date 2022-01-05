@@ -5,3 +5,10 @@ node_modules
 **/__pychache__/
 __pycache__/
 *.py[cod]
+
+# env
+.env
+
+# solidity
+artifacts
+
