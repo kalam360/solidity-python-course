@@ -6,10 +6,10 @@ from solcx import compile_standard
 from web3 import Web3
 
 
-if not os.path.isdir(PWD + "/artifacts"):
-    os.mkdir(PWD + "/artifacts")
+if not os.path.isdir(PWD + "/artifacts-py"):
+    os.mkdir(PWD + "/artifacts-py")
 
-artifacts_dir = PWD + "/artifacts/"
+artifacts_dir = PWD + "/artifacts-py/"
 
 simple_storage_path = PWD + "/contracts/storage/SimpleStorage.sol"
 

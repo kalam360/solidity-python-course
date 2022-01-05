@@ -10,5 +10,6 @@ __pycache__/
 .env
 
 # solidity
-artifacts
+artifacts-py
+artifacts-js
 
