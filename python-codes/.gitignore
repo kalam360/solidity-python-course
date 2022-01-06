@@ -12,6 +12,4 @@ __pycache__/
 
 
 # solidity
-artifacts-py
-artifacts-js
-
+artifacts

@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 
-PWD = "c:/Users/PANOPTICON/Desktop/job-work/personal/solidity-python-course"
+PWD = "c:/Users/PANOPTICON/Desktop/job-work/personal/solidity-python-course/python-codes"
 load_dotenv(PWD + "/.env.rinkeby")
 
 chain_id = int(os.getenv("CHAIN_ID"))
